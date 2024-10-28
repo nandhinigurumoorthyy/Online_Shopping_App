@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "./card_images/AirPods.jpg";
+import img1 from "./card_images/Airpods.jpg";
 import img2 from "./card_images/iPhone.jpg";
 import img3 from "./card_images/choc.jpg";
 import img4 from "./card_images/doll.jpg";
